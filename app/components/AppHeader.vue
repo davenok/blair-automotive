@@ -19,7 +19,7 @@
             variant="solid"
             size="lg"
             aria-label="Call us"
-            to="tel:+1234567890"
+            to="tel:+19186942922"
             external
             class="bg-[#C41E3A] hover:bg-[#9B1829]"
           />
@@ -51,11 +51,11 @@
             icon="i-lucide-phone"
             color="gray"
             variant="ghost"
-            to="tel:+1234567890"
+            to="tel:+19186942922"
             external
             class="text-[#F5F5DC]"
           >
-            (555) 123-4567
+            (918) 694-2922
           </UButton>
           <UButton
             color="red"

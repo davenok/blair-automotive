@@ -19,7 +19,7 @@
               variant="ghost"
               size="sm"
               aria-label="Facebook"
-              to="https://facebook.com"
+              to="https://www.facebook.com/profile.php?id=61579403897925"
               external
             />
             <UButton
@@ -66,14 +66,14 @@
             <div class="flex items-start gap-3">
               <UIcon name="i-lucide-map-pin" class="text-[#C41E3A] flex-shrink-0 mt-1" />
               <div class="text-sm">
-                123 Main Street<br />
-                Hometown, ST 12345
+                1401 N HWY 66<br />
+                Catoosa, OK 74015
               </div>
             </div>
             <div class="flex items-center gap-3">
               <UIcon name="i-lucide-phone" class="text-[#C41E3A] flex-shrink-0" />
-              <a href="tel:+1234567890" class="hover:text-[#C41E3A] transition-colors">
-                (555) 123-4567
+              <a href="tel:+19186942922" class="hover:text-[#C41E3A] transition-colors">
+                (918) 694-2922
               </a>
             </div>
             <div class="flex items-center gap-3">
@@ -85,9 +85,8 @@
             <div class="flex items-start gap-3">
               <UIcon name="i-lucide-clock" class="text-[#C41E3A] flex-shrink-0 mt-1" />
               <div class="text-sm">
-                Mon-Fri: 8:00 AM - 6:00 PM<br />
-                Sat: 9:00 AM - 4:00 PM<br />
-                Sun: Closed
+                <span class="font-semibold text-[#F5F5DC]">By Appointment Only</span><br />
+                Call to Schedule Your Service
               </div>
             </div>
           </div>

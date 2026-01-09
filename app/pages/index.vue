@@ -37,11 +37,11 @@
               color="gray"
               variant="outline"
               class="border-[#F5F5DC] text-[#F5F5DC] hover:bg-[#2d2d2d] text-lg md:text-xl font-semibold px-8 py-4"
-              to="tel:+1234567890"
+              to="tel:+19186942922"
               external
             >
               <UIcon name="i-lucide-phone" class="mr-2 text-xl" />
-              (555) 123-4567
+              (918) 694-2922
             </UButton>
           </div>
         </div>
@@ -145,10 +145,10 @@
             </UButton>
             <div class="mt-6 text-center">
               <a
-                href="tel:+1234567890"
+                href="tel:+19186942922"
                 class="text-[#C41E3A] font-semibold hover:text-[#9B1829]"
               >
-                Or call us: (555) 123-4567
+                Or call us: (918) 694-2922
               </a>
             </div>
           </div>
