@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 650" fill="none">
+  <!-- Car Silhouette -->
+  <path d="M150 180 C150 180, 200 150, 350 150 C500 150, 550 180, 550 180 L570 210 C570 210, 580 230, 580 240 L580 260 C580 260, 575 265, 570 265 L560 265 C555 265, 550 260, 550 255 C550 245, 545 240, 535 240 C525 240, 520 245, 520 255 C520 260, 515 265, 510 265 L190 265 C185 265, 180 260, 180 255 C180 245, 175 240, 165 240 C155 240, 150 245, 150 255 C150 260, 145 265, 140 265 L130 265 C125 265, 120 260, 120 255 L120 240 C120 230, 130 210, 130 210 L150 180 Z M200 170 C190 170, 185 175, 185 180 L185 200 L275 200 L275 180 C275 175, 270 170, 260 170 L200 170 Z M425 170 C415 170, 410 175, 410 180 L410 200 L515 200 L515 180 C515 175, 510 170, 500 170 L425 170 Z" fill="#000000"/>
+  
+  <!-- BLAIR Text -->
+  <text x="350" y="380" font-family="Arial, sans-serif" font-size="120" font-weight="900" fill="#C41E3A" text-anchor="middle" letter-spacing="8">BLAIR</text>
+  
+  <!-- AUTOMOTIVE SERVICES Text -->
+  <text x="350" y="450" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#000000" text-anchor="middle" letter-spacing="12">AUTOMOTIVE SERVICES</text>
+  
+  <!-- Wrench Icon -->
+  <g transform="translate(350, 490)">
+    <path d="M-30,-15 L-25,-20 L-10,-5 L5,-20 C5,-20, 15,-20, 20,-15 C25,-10, 25,0, 20,5 C15,10, 5,10, 0,5 L-15,20 L-20,25 L-25,20 L-20,15 L-5,0 L-20,-15 Z" fill="#000000"/>
+  </g>
+  
+  <!-- FAMILY OWNED Text -->
+  <text x="350" y="590" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#000000" text-anchor="middle" letter-spacing="16">FAMILY OWNED</text>
+</svg>
