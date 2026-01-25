@@ -1,13 +1,13 @@
 <template>
   <header class="sticky top-0 z-50 bg-[#1a1a1a] border-b border-[#2d2d2d]">
     <div class="container-mobile">
-      <div class="flex items-center justify-between h-16 md:h-20">
+      <div class="flex items-center justify-between h-22 md:h-28">
         <!-- Logo -->
         <NuxtLink to="/" class="flex-shrink-0">
           <img
             src="/blair-logo.svg"
             alt="Blair Automotive Services"
-            class="h-10 md:h-12 w-auto"
+            class="h-16 md:h-20 w-auto"
           />
         </NuxtLink>
 
