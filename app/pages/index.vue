@@ -92,17 +92,6 @@
             </div>
           </div>
         </div>
-        
-        <div class="text-center mt-10">
-          <UButton
-            size="lg"
-            color="red"
-            variant="outline"
-            class="border-[#C41E3A] text-[#C41E3A] hover:bg-[#C41E3A] hover:text-white"
-          >
-            View All Services
-          </UButton>
-        </div>
       </div>
     </section>
 
@@ -222,9 +211,9 @@ const services = [
     description: 'Expert transmission repair and maintenance for all makes and models.',
   },
   {
-    icon: 'i-lucide-circle',
-    title: 'Tire Services',
-    description: 'Tire sales, rotation, balancing, and alignment services.',
+    icon: 'i-lucide-move',
+    title: 'Steering & Suspension',
+    description: 'Complete steering and suspension repair to ensure a smooth, safe ride.',
   },
   {
     icon: 'i-lucide-wind',
