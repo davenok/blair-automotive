@@ -226,7 +226,7 @@ const reasons = [
   {
     icon: 'i-lucide-home',
     title: 'Family Owned & Operated',
-    description: 'Three generations of automotive expertise serving our community with pride.',
+    description: 'Generations of automotive expertise serving our community with pride.',
   },
   {
     icon: 'i-lucide-handshake',
@@ -247,9 +247,9 @@ const reasons = [
 
 const testimonials = [
   {
-    name: 'Sarah Johnson',
-    location: 'Hometown, ST',
-    text: 'Blair Automotive saved me from a costly dealer repair. Honest, fair pricing and excellent service!',
+    name: 'David Burklin',
+    location: 'Broken Arrow, OK',
+    text: 'Blair Automotive helped me with the fuel system on my Tahoe. Honest, fair pricing and excellent service!',
   },
   {
     name: 'Mike Patterson',
